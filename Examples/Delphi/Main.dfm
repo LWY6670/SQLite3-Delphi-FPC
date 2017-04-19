@@ -1,8 +1,8 @@
 object Form_Main: TForm_Main
-  Left = 421
-  Top = 198
-  Width = 673
-  Height = 434
+  Left = 251
+  Top = 227
+  Width = 560
+  Height = 257
   Caption = 'Delphi SQLite Example'
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -18,7 +18,7 @@ object Form_Main: TForm_Main
     Left = 0
     Top = 0
     Width = 154
-    Height = 396
+    Height = 218
     Align = alLeft
     BevelOuter = bvNone
     TabOrder = 0
@@ -44,8 +44,8 @@ object Form_Main: TForm_Main
   object Memo_Result: TMemo
     Left = 154
     Top = 0
-    Width = 503
-    Height = 396
+    Width = 390
+    Height = 218
     Align = alClient
     BorderStyle = bsNone
     Color = 4207920
